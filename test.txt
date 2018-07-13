@@ -1,3 +1,4 @@
 testing
 foo
 bar
+bar
